@@ -24,6 +24,27 @@ Font:
 - Copperplate (You can also use any font that you'd like!)
 
 Images: 
-- "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
+- ""
     - (You may use any image you would like for the background!)
 */
+
+body {
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+
+}
+#jordans-1 {
+    height: 400px;
+    width: 600px;
+    
+}
+
+#jordans-2 {
+    height: 400px;
+    width: 600px;
+    
+}
